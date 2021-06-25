@@ -1,5 +1,6 @@
 ###### Django_Google_Login
 Make Google Login in Django Framework
+장고 프레임워크로 구글로그인 구현하기!
 
 install requirements.txt by configure envs
 *  *  *
